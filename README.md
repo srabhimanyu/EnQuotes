@@ -1,2 +1,2 @@
 # EnQuotes
-Developed an App using Elastic Search to see the famous regarding to a particular author
+Developed an App using Elastic Search to see famous quotes of particular author and performed various acitvities regarding that
