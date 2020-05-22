@@ -19,7 +19,7 @@ argparse==1.2.1
 blinker==1.4
 elasticsearch==2.3.0
 itsdangerous==0.24
-marshmallow==2.6.1
+marshmallow==2.15.1
 mimerender==0.6.0
 mysql==0.0.1
 pymssql==2.1.2
