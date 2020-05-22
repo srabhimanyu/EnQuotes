@@ -1,0 +1,8 @@
+"id","description","faculty_rating","qualifications","image_url","linkedin_url"
+1,"Akhilesh",3,"BTech from IIIT-A","",NULL
+2,"Praveen",2,"MTech from IIT-D",NULL,NULL
+3,"Sujhata",1,"PhD from JIIT-62",NULL,NULL
+4,"Varsha",5,"MTech from IIT-R",NULL,NULL
+5,"Gaurav",4,"MTech from IIT-M",NULL,NULL
+6,"Himanshu",3,"MS from Harvard",NULL,NULL
+7,"Abhishek",4,"MS from Michigan State",NULL,NULL

@@ -1,0 +1,8 @@
+"id","name","ac_facility","capacity","wifi_facility","room_type","reading_hall","image_location","hostel_rating"
+1,"SMS",1,1200,1,"single",1,"http://www.kit.org.in/images/hostel.jpg",4
+2,"GMS",0,1000,0,"triple-sharing",0,"http://goo.gl/svrEzV",3
+3,"KSM",0,1245,1,"double-sharing",0,"http://goo.gl/0O7h7T",2
+4,"KKK",1,1112,0,"all",1,"http://goo.gl/QgV3a6",1
+5,"ABI",1,1543,0,"single",1,"http://goo.gl/JYT0fH",5
+6,"FOI",0,987,1,"double-sharing",1,"http://goo.gl/TqcJDV",3
+7,"BVB",1,789,1,"single",0,"http://goo.gl/kUBvLc",5

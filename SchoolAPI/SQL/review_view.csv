@@ -1,0 +1,8 @@
+"id","user_id","school_id","description","school_rating","hostel_rating","cafeteria_rating","sports_rating","transport_rating","faculty_rating","library_rating","courses_rating"
+1,1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,2,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,3,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4,4,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5,5,5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,6,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,7,7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
